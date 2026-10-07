@@ -1,11 +1,6 @@
 """
 Safest Countries in the World 2026 — EDA + Business Analysis
-Run:
-    pip install -r requirements.txt
-    python python/analysis.py
 
-The script performs data quality checks, EDA, rankings, trend analysis,
-correlations and exports analytical tables/visualizations.
 """
 
 from pathlib import Path
