@@ -1,5 +1,4 @@
 -- Safest Countries in the World 2026
--- SQLite/DuckDB-style analytical SQL.
 -- Import the CSV into a table named safest_countries before running.
 
 -- 1. Data quality profile
